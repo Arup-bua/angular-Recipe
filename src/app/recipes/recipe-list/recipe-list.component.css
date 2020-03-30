@@ -1,0 +1,9 @@
+.btn{
+   padding: 5px;
+}
+
+.list-group-item {
+padding-block-start: 5px;
+padding-block-end: 2px;
+}
+
